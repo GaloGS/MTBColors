@@ -10,6 +10,7 @@ This will provide the function `MTBC_colors` that takes as input a vector of str
 
 This palette will create a named vector of hexadecimal codes that can be for example used with `ggplot2::scale_color_manual`
 
+## Usage example
 For example, let's say you have a dataframe with a column that defines the MTBC lineage. This column can have lineage
 names in different ways, even containing errors:
 
