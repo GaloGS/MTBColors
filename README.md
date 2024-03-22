@@ -1,5 +1,5 @@
 # MTBColors
-An R package to create color palettes for MTBC lineages following Gagneux et al. 2018 Nat Rev Microbiology
+An R package to create color palettes for MTBC lineages following the color scheme in Gagneux et al. 2018 Nat Rev Microbiology
 
 ## Install the package
 Install the package in R. Provide the full path to the tar.gz file
